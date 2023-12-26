@@ -14,25 +14,10 @@ spaCy · Data Science · PyTorch · Seaborn · Transformers · BERT (Language Mo
 <br><br>
 <h3>My Repositories</h3>
 
-<table width=100%>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>💾: Projects</b></td>
-    </tr>
-  </thead>
-  <tbody>
+<b>💾 Data Science and Machine Learning Projects: </b>
+- <a href="https://github.com/djumaliev/Yandex.Practicum-projects/tree/main"><b>Yandex.Practicum Projects</b></a></td>
 
-<tr>
-      <td><a href="https://github.com/djumaliev/Yandex.Practicum-projects/tree/main"><b>Yandex.Practicum Projects</b></a></td>
-</tr>    
-<tr>
-      <td><a href="https://djumaliev.github.io/NumberWizard_WebGL/index.html"><b>🎮 Number Wizard</b></a></td>
-</tr>
-<tr>
-      <td><a href="https://djumaliev.github.io/blockbreaker_WebGL/index.html"><b>🎮 Block Breaker</b></a></td>
-</tr>
-<tr>
-      <td><a href="https://djumaliev.github.io/PaperWars_WebGL/index.html"><b>🎮 Paper Wars</b></a></td>
-</tr>
-  </tbody>
-</table>
+<b>💾 C# + Unity Projects: </b>
+- <a href="https://djumaliev.github.io/NumberWizard_WebGL/index.html"><b>🎮 Number Wizard</b></a></td>
+- <a href="https://djumaliev.github.io/blockbreaker_WebGL/index.html"><b>🎮 Block Breaker</b></a></td>
+- <a href="https://djumaliev.github.io/PaperWars_WebGL/index.html"><b>🎮 Paper Wars</b></a></td>
