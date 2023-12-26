@@ -21,3 +21,4 @@ spaCy · Data Science · PyTorch · Seaborn · Transformers · BERT (Language Mo
 - <a href="https://djumaliev.github.io/NumberWizard_WebGL/index.html"><b>🎮 Number Wizard</b></a></td>
 - <a href="https://djumaliev.github.io/blockbreaker_WebGL/index.html"><b>🎮 Block Breaker</b></a></td>
 - <a href="https://djumaliev.github.io/PaperWars_WebGL/index.html"><b>🎮 Paper Wars</b></a></td>
+- <a href="https://djumaliev.github.io/LaserDefender_WebGL/index.html"><b>🎮 Laser Defender</b></a></td>
