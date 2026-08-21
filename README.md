@@ -2,7 +2,7 @@
 
 <p> <a href="https://www.linkedin.com/in/dan-djumaliev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
-### My name is Daniiar Dzhumaliev 💪
+### My name is Dan!
 
 I recently completed the Yandex.Practicum bootcamp in Data Science and Machine Learning. It was a challenging but very interesting and exciting six months during which I had the opportunity to train numerous models, conduct a lot of analytical work, and formulate many hypotheses. Prior to this, I spent a whole year independently studying C# and Unity, resulting in the development of several small games.
 
